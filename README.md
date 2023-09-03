@@ -1,8 +1,8 @@
-<div id="header" align="left">
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
     <a href="https://spb.hh.ru/resume/2ef883e1ff07d6a4d50039ed1f334c5776324a">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="50" />
     </a>
