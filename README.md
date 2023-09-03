@@ -10,7 +10,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" />
     </a>
     <a href="http://www.sql-ex.ru/certification/confirm.php?cert_id=A20538461">
-        <img src="http://www.sql-ex.ru/certification/csbtn.php?cert_id=A20538461" alt="SQL DML Certified Professional" border="0" width="88" height="31" />
+        <img src="https://github.com/oldos-orwell/oldos-orwell/blob/main/image/sql-ex%20logo%20(1).png" width="50"/>
     </a>
 </div>
 
